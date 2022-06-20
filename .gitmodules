@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "thredds"]
+	path = thredds
+	url = https://github.com/bigelowlab/thredds
+	shallow = true
+	registered = true
